@@ -1,2 +1,3 @@
 # js-projects
-JavaScript projects
+
+JavaScript projects.
